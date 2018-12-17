@@ -1,5 +1,5 @@
 Prerequisites:
- - Matlab 2018a or newer
+ - MATLAb 2018a or newer
  - Peter Corke's Robotic toolbox 10.1 or newer
  - Simulink and Simscape
  - Maple 2018 or newer 
